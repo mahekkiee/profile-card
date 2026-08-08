@@ -1,0 +1,19 @@
+
+<head>
+
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+body {
+  font-family: sans-serif;
+  background-color: #f7f6f3;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  color: #4d96ff;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #4d96ff;
+}
